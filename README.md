@@ -3,3 +3,4 @@
 hello
 foobar
 fizzbazz
+var
